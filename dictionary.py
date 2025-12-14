@@ -6,3 +6,6 @@ dic = {
     "student_name" : "Musa",
     "student_contact" : 12365478
 }
+
+for i in dic:
+    print(i,":",dic[i])
