@@ -9,3 +9,7 @@ contacts = {
 }
 
 print(contacts['Musa'])
+
+contacts['test'] = 8541
+
+print(contacts)
